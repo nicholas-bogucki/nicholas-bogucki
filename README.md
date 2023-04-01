@@ -1,3 +1,5 @@
+!!! NOTE: THIS IS A PARODY ACCOUNT !!!
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ["cursed" code](https://www.youtube.com/watch?v=AyAGjU8imb8). ```let a: i32 = 'a"``` 
