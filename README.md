@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ["cursed" code](https://www.youtube.com/watch?v=AyAGjU8imb8). ```let a: i32 = 'a"``` 
 - 🌱 I’m currently learning how to escape Microsoft.
 - 👯 I’m looking to collaborate on [Roblox](https://now.gg/apps/roblox-corporation/5349/roblox.html) Studio.
